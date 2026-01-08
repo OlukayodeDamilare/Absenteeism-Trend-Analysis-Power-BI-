@@ -68,9 +68,9 @@ Data Type: Simulated HR absenteeism dataset:
 ---
 
 # Key Metrics
-- Total Employees
-- Total Absent Hours
-- Absenteeism Cases
+- Total Employees = 36
+- Total Absent Hours = 4,484
+- Absenteeism Cases = 639
 - Monthly & Seasonal Absenteeism Trends
 
 ---

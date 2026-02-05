@@ -92,7 +92,9 @@ The dashboard provides:
 	•	Absence reason analysis
 	•	Monthly and seasonal trend analysis
 	•	Interactive filters for deeper exploration
-![Absenteeism Analysis Dashboard](https://github.com/user-attachments/assets/9925252c-94af-43ac-ad0d-1c5876760d23)
+
+
+[ABSEENTEEISM DASHBOARD IMAGE](https://github.com/user-attachments/assets/8fd25c26-abb4-4acb-a4d2-4ffdaa3cfb27)
 
 
 # Recommendations

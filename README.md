@@ -66,14 +66,30 @@ Data Type: Simulated HR absenteeism dataset:
 - Built relationships to support accurate filtering and analysis
 
 ---
-
-# Key Metrics
-- Total Employees = 36
-- Total Absent Hours = 4,484
-- Absenteeism Cases = 639
-- Monthly & Seasonal Absenteeism Trends
+| Metric | Value |
+|------|------|
+| Total Employees | 36 |
+| Total Absent Hours | 4,000 |
+| Average Age | 37 |
+| Highest Absenteeism Age Group | 27–36 (290 cases) |
+| Peak Season for Absence | Spring (198 cases) |
+| Main Absenteeism Reason | Medical (555 cases) |
+| Most Affected BMI Category | Obese (43.51%) |
+| Education Level with Highest Absence | High School (521 cases) |
 
 ---
+
+# Dashboard Overview
+
+#The dashboard provides:
++ High-level KPIs for quick monitoring
++ Demographic breakdowns (age, BMI, education)
++ Absence reason analysis
++ Monthly and seasonal trend analysis
++ Interactive filters for deeper exploration.
+
+![ABSEENTEEISM DASHBOARD IMAGE](https://github.com/user-attachments/assets/4d8f00b9-5339-458b-b0d4-cb788cd285a8)
+
 
 # Key Insights
 - Employees aged 27–36 recorded the highest number of absenteeism cases
@@ -81,20 +97,6 @@ Data Type: Simulated HR absenteeism dataset:
 - Absenteeism peaks during specific months, indicating seasonal patterns
 - BMI categories show varying absenteeism distributions
 - Employees with lower education levels recorded higher absenteeism cases
-
----
-
-# Dashboard Overview
-
-The dashboard provides:
-	•	High-level KPIs for quick monitoring
-	•	Demographic breakdowns (age, BMI, education)
-	•	Absence reason analysis
-	•	Monthly and seasonal trend analysis
-	•	Interactive filters for deeper exploration
-
-
-[ABSEENTEEISM DASHBOARD IMAGE](https://github.com/user-attachments/assets/8fd25c26-abb4-4acb-a4d2-4ffdaa3cfb27)
 
 
 # Recommendations
